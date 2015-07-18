@@ -40,7 +40,7 @@ public final class R {
         public static int djiTextFace=0x7f010000;
     }
     public static final class color {
-        public static int midware_white_half=0x7f080000;
+        public static int midware_white_half=0x7f070000;
     }
     public static final class drawable {
         public static int btn_lock_selector=0x7f020000;
@@ -50,15 +50,15 @@ public final class R {
         public static int radio_unchecked=0x7f020004;
     }
     public static final class id {
-        public static int bold=0x7f070003;
-        public static int demi=0x7f070000;
-        public static int log_dlg_content=0x7f070007;
-        public static int log_dlg_control=0x7f070004;
-        public static int log_dlg_lock=0x7f070005;
-        public static int log_dlg_rg=0x7f070008;
-        public static int log_dlg_scroll=0x7f070006;
-        public static int nbold=0x7f070002;
-        public static int nlight=0x7f070001;
+        public static int bold=0x7f0a0000;
+        public static int demi=0x7f0a0001;
+        public static int log_dlg_content=0x7f0a0007;
+        public static int log_dlg_control=0x7f0a0004;
+        public static int log_dlg_lock=0x7f0a0005;
+        public static int log_dlg_rg=0x7f0a0008;
+        public static int log_dlg_scroll=0x7f0a0006;
+        public static int nbold=0x7f0a0002;
+        public static int nlight=0x7f0a0003;
     }
     public static final class layout {
         public static int log_dialog_view=0x7f030000;
@@ -73,74 +73,74 @@ public final class R {
         public static int flyc_param_infos=0x7f060006;
     }
     public static final class string {
-        public static int DESCRIPTION_RESULT_OK=0x7f09000d;
-        public static int DetailCheckPermissionSuccess=0x7f090030;
-        public static int ERR_CAM_CAPTURING_DISABLED=0x7f09002a;
-        public static int ERR_CAM_IS_CONTINUOUS_CAPTURE=0x7f09002e;
-        public static int ERR_CAM_IS_FULL_VIEW_CAPTURE=0x7f09002f;
-        public static int ERR_CAM_IS_MUTILPY_CAPTURE=0x7f09002d;
-        public static int ERR_CAM_IS_SINGLE_CAPTURE=0x7f09002c;
-        public static int ERR_CAM_IS_STORING=0x7f090029;
-        public static int ERR_CAM_IS_TIME_CAPTURE=0x7f09002b;
-        public static int ERR_DECRIPTION_AUTH_FAILED=0x7f09000a;
-        public static int ERR_DECRIPTION_CAM_EXEC_TIMEOUT=0x7f09000f;
-        public static int ERR_DECRIPTION_CAM_INVALID_PARAM=0x7f090011;
-        public static int ERR_DECRIPTION_CAM_MEMALLOC_FAILED=0x7f090010;
-        public static int ERR_DECRIPTION_CAM_NO_SDCARD=0x7f090016;
-        public static int ERR_DECRIPTION_CAM_PARAM_GET_FAILED=0x7f090015;
-        public static int ERR_DECRIPTION_CAM_PARAM_NOT_AVAILABLE=0x7f09001d;
-        public static int ERR_DECRIPTION_CAM_PARAM_SET_FAILED=0x7f090014;
-        public static int ERR_DECRIPTION_CAM_SDCARD_ERROR=0x7f090018;
-        public static int ERR_DECRIPTION_CAM_SDCARD_FULL=0x7f090017;
-        public static int ERR_DECRIPTION_CAM_SENSOR_ERROR=0x7f090019;
-        public static int ERR_DECRIPTION_CAM_SYSTEM_ERROR=0x7f09001a;
-        public static int ERR_DECRIPTION_CAM_TIME_NO_SYNC=0x7f090013;
-        public static int ERR_DECRIPTION_CAM_UNSUPPORT_CMD=0x7f09000e;
-        public static int ERR_DECRIPTION_CAM_UNSUPPORT_CMD_STATE=0x7f090012;
-        public static int ERR_DECRIPTION_CMD_RECV_PACK_NULL=0x7f09000b;
-        public static int ERR_DECRIPTION_FIRM_MATCH_WRONG=0x7f090024;
-        public static int ERR_DECRIPTION_FLASH_C_WRONG=0x7f090021;
-        public static int ERR_DECRIPTION_FLASH_FLUSHING=0x7f090025;
-        public static int ERR_DECRIPTION_FLASH_W_WRONG=0x7f090022;
-        public static int ERR_DECRIPTION_FM_CRC_WRONG=0x7f090020;
-        public static int ERR_DECRIPTION_FM_LENGTH_WRONG=0x7f09001f;
-        public static int ERR_DECRIPTION_FM_NONSEQUENCE=0x7f09001e;
-        public static int ERR_DECRIPTION_NOCONNECT=0x7f090028;
-        public static int ERR_DECRIPTION_PARAM_IILEGAL=0x7f09000c;
-        public static int ERR_DECRIPTION_RESULT_MATCH_FAILED=0x7f09001c;
-        public static int ERR_DECRIPTION_RESULT_SUCCEED=0x7f09001b;
-        public static int ERR_DECRIPTION_TIMEOUT=0x7f090027;
-        public static int ERR_DECRIPTION_UNDEFINED=0x7f090026;
-        public static int ERR_DECRIPTION_UPDATE_WRONG=0x7f090023;
-        public static int ERR_DESCRIPTION_CAM_NOT_USB_STATE=0x7f090005;
-        public static int ERR_DESCRIPTION_CONNECTTION_NOT_OK=0x7f090008;
-        public static int ERR_DESCRIPTION_GET_REMOTE_MEDIA_FAILED=0x7f090003;
-        public static int ERR_DESCRIPTION_GET_REMOTE_MEDIA_HTTP_ERROR=0x7f090002;
-        public static int ERR_DESCRIPTION_GET_REMOTE_NO_MEDIA=0x7f090001;
-        public static int ERR_DESCRIPTION_GET_SMART_BATTERY_INFO_FAILED=0x7f090000;
-        public static int ERR_DESCRIPTION_GET_THUMBNAIL_FAILED=0x7f090004;
-        public static int ERR_DESCRIPTION_PLUS_GIMBAL_MOTOR=0x7f090006;
-        public static int ERR_DESCRIPTION_PLUS_REMOVE_LOCK=0x7f090007;
-        public static int ERR_DESCRIPTION_UNSUPPORT=0x7f090009;
-        public static int ErrorDetailCheckPermissionActivationExceed=0x7f090037;
-        public static int ErrorDetailCheckPermissionAesEncryptFailed=0x7f090040;
-        public static int ErrorDetailCheckPermissionAppKeyNoPermission=0x7f09003a;
-        public static int ErrorDetailCheckPermissionAppKeyNotExist=0x7f090039;
-        public static int ErrorDetailCheckPermissionAppKeyPlatfromError=0x7f090038;
-        public static int ErrorDetailCheckPermissionAppKeyProhibited=0x7f090036;
-        public static int ErrorDetailCheckPermissionConnectInternet=0x7f090031;
-        public static int ErrorDetailCheckPermissionDeviceNotMatch=0x7f090034;
-        public static int ErrorDetailCheckPermissionGetServerDataTimeout=0x7f090033;
-        public static int ErrorDetailCheckPermissionGetSupport=0x7f090043;
-        public static int ErrorDetailCheckPermissionInvalidAppKey=0x7f090032;
-        public static int ErrorDetailCheckPermissionInvalidMetaData=0x7f09003e;
-        public static int ErrorDetailCheckPermissionInvalidUUID=0x7f090041;
-        public static int ErrorDetailCheckPermissionPackageNameNotMatch=0x7f090035;
-        public static int ErrorDetailCheckPermissionServerDataAbnormal=0x7f09003d;
-        public static int ErrorDetailCheckPermissionServerParseFailure=0x7f09003b;
-        public static int ErrorDetailCheckPermissionServerUnknown=0x7f090042;
-        public static int ErrorDetailCheckPermissionServerWriteError=0x7f09003c;
-        public static int ErrorDetailCheckPermissionUnsportAesEncrypt=0x7f09003f;
+        public static int DESCRIPTION_RESULT_OK=0x7f08000d;
+        public static int DetailCheckPermissionSuccess=0x7f080030;
+        public static int ERR_CAM_CAPTURING_DISABLED=0x7f08002a;
+        public static int ERR_CAM_IS_CONTINUOUS_CAPTURE=0x7f08002e;
+        public static int ERR_CAM_IS_FULL_VIEW_CAPTURE=0x7f08002f;
+        public static int ERR_CAM_IS_MUTILPY_CAPTURE=0x7f08002d;
+        public static int ERR_CAM_IS_SINGLE_CAPTURE=0x7f08002c;
+        public static int ERR_CAM_IS_STORING=0x7f080029;
+        public static int ERR_CAM_IS_TIME_CAPTURE=0x7f08002b;
+        public static int ERR_DECRIPTION_AUTH_FAILED=0x7f08000a;
+        public static int ERR_DECRIPTION_CAM_EXEC_TIMEOUT=0x7f08000f;
+        public static int ERR_DECRIPTION_CAM_INVALID_PARAM=0x7f080011;
+        public static int ERR_DECRIPTION_CAM_MEMALLOC_FAILED=0x7f080010;
+        public static int ERR_DECRIPTION_CAM_NO_SDCARD=0x7f080016;
+        public static int ERR_DECRIPTION_CAM_PARAM_GET_FAILED=0x7f080015;
+        public static int ERR_DECRIPTION_CAM_PARAM_NOT_AVAILABLE=0x7f08001d;
+        public static int ERR_DECRIPTION_CAM_PARAM_SET_FAILED=0x7f080014;
+        public static int ERR_DECRIPTION_CAM_SDCARD_ERROR=0x7f080018;
+        public static int ERR_DECRIPTION_CAM_SDCARD_FULL=0x7f080017;
+        public static int ERR_DECRIPTION_CAM_SENSOR_ERROR=0x7f080019;
+        public static int ERR_DECRIPTION_CAM_SYSTEM_ERROR=0x7f08001a;
+        public static int ERR_DECRIPTION_CAM_TIME_NO_SYNC=0x7f080013;
+        public static int ERR_DECRIPTION_CAM_UNSUPPORT_CMD=0x7f08000e;
+        public static int ERR_DECRIPTION_CAM_UNSUPPORT_CMD_STATE=0x7f080012;
+        public static int ERR_DECRIPTION_CMD_RECV_PACK_NULL=0x7f08000b;
+        public static int ERR_DECRIPTION_FIRM_MATCH_WRONG=0x7f080024;
+        public static int ERR_DECRIPTION_FLASH_C_WRONG=0x7f080021;
+        public static int ERR_DECRIPTION_FLASH_FLUSHING=0x7f080025;
+        public static int ERR_DECRIPTION_FLASH_W_WRONG=0x7f080022;
+        public static int ERR_DECRIPTION_FM_CRC_WRONG=0x7f080020;
+        public static int ERR_DECRIPTION_FM_LENGTH_WRONG=0x7f08001f;
+        public static int ERR_DECRIPTION_FM_NONSEQUENCE=0x7f08001e;
+        public static int ERR_DECRIPTION_NOCONNECT=0x7f080028;
+        public static int ERR_DECRIPTION_PARAM_IILEGAL=0x7f08000c;
+        public static int ERR_DECRIPTION_RESULT_MATCH_FAILED=0x7f08001c;
+        public static int ERR_DECRIPTION_RESULT_SUCCEED=0x7f08001b;
+        public static int ERR_DECRIPTION_TIMEOUT=0x7f080027;
+        public static int ERR_DECRIPTION_UNDEFINED=0x7f080026;
+        public static int ERR_DECRIPTION_UPDATE_WRONG=0x7f080023;
+        public static int ERR_DESCRIPTION_CAM_NOT_USB_STATE=0x7f080005;
+        public static int ERR_DESCRIPTION_CONNECTTION_NOT_OK=0x7f080008;
+        public static int ERR_DESCRIPTION_GET_REMOTE_MEDIA_FAILED=0x7f080003;
+        public static int ERR_DESCRIPTION_GET_REMOTE_MEDIA_HTTP_ERROR=0x7f080002;
+        public static int ERR_DESCRIPTION_GET_REMOTE_NO_MEDIA=0x7f080001;
+        public static int ERR_DESCRIPTION_GET_SMART_BATTERY_INFO_FAILED=0x7f080000;
+        public static int ERR_DESCRIPTION_GET_THUMBNAIL_FAILED=0x7f080004;
+        public static int ERR_DESCRIPTION_PLUS_GIMBAL_MOTOR=0x7f080006;
+        public static int ERR_DESCRIPTION_PLUS_REMOVE_LOCK=0x7f080007;
+        public static int ERR_DESCRIPTION_UNSUPPORT=0x7f080009;
+        public static int ErrorDetailCheckPermissionActivationExceed=0x7f080037;
+        public static int ErrorDetailCheckPermissionAesEncryptFailed=0x7f080040;
+        public static int ErrorDetailCheckPermissionAppKeyNoPermission=0x7f08003a;
+        public static int ErrorDetailCheckPermissionAppKeyNotExist=0x7f080039;
+        public static int ErrorDetailCheckPermissionAppKeyPlatfromError=0x7f080038;
+        public static int ErrorDetailCheckPermissionAppKeyProhibited=0x7f080036;
+        public static int ErrorDetailCheckPermissionConnectInternet=0x7f080031;
+        public static int ErrorDetailCheckPermissionDeviceNotMatch=0x7f080034;
+        public static int ErrorDetailCheckPermissionGetServerDataTimeout=0x7f080033;
+        public static int ErrorDetailCheckPermissionGetSupport=0x7f080043;
+        public static int ErrorDetailCheckPermissionInvalidAppKey=0x7f080032;
+        public static int ErrorDetailCheckPermissionInvalidMetaData=0x7f08003e;
+        public static int ErrorDetailCheckPermissionInvalidUUID=0x7f080041;
+        public static int ErrorDetailCheckPermissionPackageNameNotMatch=0x7f080035;
+        public static int ErrorDetailCheckPermissionServerDataAbnormal=0x7f08003d;
+        public static int ErrorDetailCheckPermissionServerParseFailure=0x7f08003b;
+        public static int ErrorDetailCheckPermissionServerUnknown=0x7f080042;
+        public static int ErrorDetailCheckPermissionServerWriteError=0x7f08003c;
+        public static int ErrorDetailCheckPermissionUnsportAesEncrypt=0x7f08003f;
     }
     public static final class style {
         /** 
@@ -153,13 +153,13 @@ public final class R {
             backward-compatibility can go here.
         
          */
-        public static int AppBaseTheme=0x7f0a0001;
+        public static int AppBaseTheme=0x7f090001;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static int AppTheme=0x7f0a0002;
-        public static int DialogTheme=0x7f0a0003;
-        public static int LogDialog=0x7f0a0000;
+        public static int AppTheme=0x7f090002;
+        public static int DialogTheme=0x7f090003;
+        public static int LogDialog=0x7f090000;
     }
     public static final class xml {
         public static int accessory_filter=0x7f050000;
@@ -196,6 +196,6 @@ public final class R {
 </table>
           @attr name dji.sdk:djiTextFace
         */
-        public static final int DJITextView_djiTextFace = 0;
+        public static int DJITextView_djiTextFace = 0;
     };
 }
